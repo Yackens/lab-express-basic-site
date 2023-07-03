@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    text-align: center;
+    background: #fff;
+    font-family: "Courier New", monospace;
+  }
+
+  h1 {  
+    text-decoration: underline;  
+    font-size: 50px;
+}
+
+h3 {  
+    font-size: 30px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+#img_1, #img_2 {
+    
+    display: flex;
+}
